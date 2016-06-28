@@ -1,2 +1,2 @@
-# DOCTOR-VECRTOR
+# DOCTOR-VECTOR
 Digitalisation of medical facilities
